@@ -5,7 +5,7 @@ theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "gruvbox-dark"
+    schema = "gruvbox_dark"
 
     [Params.Tree]
     use = true
