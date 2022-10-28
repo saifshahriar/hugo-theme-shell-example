@@ -5,7 +5,7 @@ theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "dracula"
+    schema = "ubuntu"
 
     [Params.Tree]
     use = true
