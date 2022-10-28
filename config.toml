@@ -5,11 +5,14 @@ theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
-    schema = "gruvbox_dark"
+    schema = "dracula"
 
     [Params.Tree]
     use = true
     files = [
+        ["My Website", "https://www.saifshahriar.github.io"],
+        ["dotfiles", "https://www.github.com/saifshahriar/dotfiles"],
+        ["dwm-saif", "https://www.github.com/saifshahriar/dwm-saif"],
         ["C/C++", "https://www.example.com/"],
         ["Python", "https://www.example.com/"],
         ["Go", "/works/go.md"],
